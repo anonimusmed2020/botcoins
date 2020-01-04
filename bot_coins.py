@@ -14,8 +14,8 @@ mariadb_connection = mariadb.connect(user='crypdxzp_datauser', password='BE5zXIm
 cursor = mariadb_connection.cursor()
 
 
-api_key = 'lgrEsp8eMoDfgBs932bTXbd7ZIwkN6Xgh2j0NTJ4GaEPnpTWXJ2flRPKBd2aCLvu'
-api_secret = 'a6XRaxVKCVPoIohQXX20ZMtP5Lkh9tCqSQjZeuK5Z1WxawVRi8M6s8gcmIZEbHj6'
+api_key = 'aqui debes poner la api_key'
+api_secret = 'api_secret'
 
 
 
